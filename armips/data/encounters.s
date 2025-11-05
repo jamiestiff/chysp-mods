@@ -4072,49 +4072,49 @@ rocksmashrate 0
 oldrodrate 0
 goodrodrate 0
 superrodrate 0
-walklevels 16, 17, 16, 17, 16, 16, 16, 16, 15, 15, 15, 15
+walklevels 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5
 
 // morning encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_FARFETCHD
-pokemon SPECIES_FARFETCHD
+pokemon SPECIES_WOOLOO
+pokemon SPECIES_MAREEP
+pokemon SPECIES_SEWADDLE
+pokemon SPECIES_SEWADDLE
+pokemon SPECIES_VULPIX
+monwithform SPECIES_VULPIX, 1
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TAUROS
+pokemon SPECIES_GOOMY
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TAUROS
+pokemon SPECIES_GOOMY
 
 // day encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_FARFETCHD
-pokemon SPECIES_FARFETCHD
+pokemon SPECIES_WOOLOO
+pokemon SPECIES_MAREEP
+pokemon SPECIES_SEWADDLE
+pokemon SPECIES_SEWADDLE
+pokemon SPECIES_VULPIX
+pokemon SPECIES_SUNKERN
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TAUROS
+pokemon SPECIES_GOOMY
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TAUROS
+pokemon SPECIES_GOOMY
 
 // night encounter slots
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATICATE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_MAGNEMITE
-pokemon SPECIES_RATTATA
-pokemon SPECIES_RATTATA
+pokemon SPECIES_WOOLOO
+pokemon SPECIES_MAREEP
+pokemon SPECIES_SEWADDLE
+pokemon SPECIES_SEWADDLE
+pokemon SPECIES_VULPIX
+pokemon SPECIES_HOUNDOUR
+pokemon SPECIES_SNUBBULL
+pokemon SPECIES_SNUBBULL
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TAUROS
+pokemon SPECIES_GOOMY
 pokemon SPECIES_MILTANK
-pokemon SPECIES_TAUROS
+pokemon SPECIES_GOOMY
 
 // hoenn encounter slots
 pokemon SPECIES_PLUSLE
@@ -4247,11 +4247,11 @@ encounter SPECIES_KRABBY, 10, 10
 encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_KRABBY, 20, 20
-encounter SPECIES_KRABBY, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
-encounter SPECIES_KRABBY, 20, 20
+encounter SPECIES_CORSOLA, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
 
 // super rod encounters
 encounter SPECIES_KRABBY, 40, 40
@@ -4351,11 +4351,11 @@ encounter SPECIES_KRABBY, 10, 10
 encounter SPECIES_KRABBY, 10, 10
 
 // good rod encounters
-encounter SPECIES_MAGIKARP, 20, 20
-encounter SPECIES_KRABBY, 20, 20
-encounter SPECIES_KRABBY, 20, 20
-encounter SPECIES_CORSOLA, 20, 20
-encounter SPECIES_KRABBY, 20, 20
+encounter SPECIES_CORSOLA, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
+encounter SPECIES_CHINCHOU, 5, 5
 
 // super rod encounters
 encounter SPECIES_KRABBY, 40, 40
