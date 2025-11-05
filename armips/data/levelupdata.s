@@ -29,7 +29,7 @@ levelup SPECIES_BULBASAUR
     learnset MOVE_SYNTHESIS, 29
     learnset MOVE_WORRY_SEED, 30
     learnset MOVE_DOUBLE_EDGE, 30
-    learnset MOVE_SOLAR_BEAM, 36
+    learnset MOVE_SOLAR_BEAM, 37
     terminatelearnset
 
 
