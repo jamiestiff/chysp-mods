@@ -30,6 +30,10 @@
 
 .include "armips/asm/fairy.s" // repoints all the move table defines within the structure
 
+// custom asm scripts
+.include "armips/asm/custom/spawn_reposition.s" // edits required badges for hm use
+.include "armips/asm/custom/text_speed.s" // edits items obtained from rock smash
+
 .endif
 
 .ifdef APPLY_ANTIPIRACY
