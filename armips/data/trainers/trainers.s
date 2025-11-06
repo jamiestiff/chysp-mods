@@ -30,10 +30,10 @@ trainerdata 0, "-"
         ballseal 0
     endparty
 
-trainerdata 1, "Silver"
+trainerdata 1, "Sonia"
     trainermontype TRAINER_DATA_TYPE_NOTHING
-    trainerclass TRAINERCLASS_RIVAL
-    nummons 3
+    trainerclass TRAINERCLASS_SONIA
+    nummons 1
     item ITEM_NONE
     item ITEM_NONE
     item ITEM_NONE
@@ -44,24 +44,10 @@ trainerdata 1, "Silver"
 
     party 1
         // mon 0
-        ivs 30
+        ivs 0
         abilityslot 0
-        level 14
-        pokemon SPECIES_GASTLY
-        ballseal 0
-
-        // mon 1
-        ivs 30
-        abilityslot 0
-        level 16
-        pokemon SPECIES_ZUBAT
-        ballseal 0
-
-        // mon 2
-        ivs 30
-        abilityslot 0
-        level 18
-        pokemon SPECIES_BAYLEEF
+        level 5
+        pokemon SPECIES_WOOLOO
         ballseal 0
     endparty
 
