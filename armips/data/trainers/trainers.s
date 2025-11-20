@@ -4564,7 +4564,7 @@ trainerdata 120, "Irene"
         move MOVE_LEECH_SEED
         move MOVE_PROTECT
         move MOVE_SWEET_SCENT
-        ability ABILITY_SERENE_GRACE
+        ability ABILITY_WIND_RIDER
         ball ITEM_FRIEND_BALL
         setivs 31, 0, 31, 31, 21, 31 // hp, atk, def, spd, spatk, spdef
         setevs 0, 0, 160, 0, 0, 0
@@ -6320,7 +6320,7 @@ trainerdata 165, "Ethan"
         move MOVE_AIR_SLASH
         move MOVE_SILVER_WIND
         move MOVE_ENCORE
-        ability ABILITY_SERENE_GRACE
+        ability ABILITY_WIND_RIDER
         ball ITEM_FRIEND_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
         setevs 252, 0, 0, 0, 0, 252
@@ -11044,7 +11044,7 @@ trainerdata 256, "Erika"
         move MOVE_AIR_CUTTER
         move MOVE_HELPING_HAND
         move MOVE_SPORE
-        ability ABILITY_SERENE_GRACE
+        ability ABILITY_WIND_RIDER
         ball ITEM_FRIEND_BALL
         setivs 31, 31, 31, 31, 31, 31 // hp, atk, def, spd, spatk, spdef
         setevs 100, 0, 156, 252, 0, 0
