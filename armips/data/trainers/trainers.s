@@ -31,7 +31,7 @@ trainerdata 0, "-"
     endparty
 
 trainerdata 1, "Sonia"
-    trainermontype TRAINER_DATA_TYPE_NOTHING
+    trainermontype TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_MOVES | TRAINER_DATA_TYPE_ITEMS | TRAINER_DATA_TYPE_ABILITY | TRAINER_DATA_TYPE_BALL | TRAINER_DATA_TYPE_IV_EV_SET | TRAINER_DATA_TYPE_NATURE_SET | TRAINER_DATA_TYPE_SHINY_LOCK | TRAINER_DATA_TYPE_ADDITIONAL_FLAGS    
     trainerclass TRAINERCLASS_SONIA
     nummons 1
     item ITEM_NONE
@@ -44,10 +44,22 @@ trainerdata 1, "Sonia"
 
     party 1
         // mon 0
-        ivs 0
+        ivs 50
         abilityslot 0
         level 5
         pokemon SPECIES_WOOLOO
+        item ITEM_NONE
+        move MOVE_TACKLE
+        move MOVE_DEFENSE_CURL
+        move MOVE_NONE
+        move MOVE_NONE
+        ability ABILITY_FLUFFY
+        ball ITEM_MASTER_BALL
+        setivs 0, 0, 0, 0, 0, 0 // hp, atk, def, spd, spatk, spdef
+        setevs 0, 0, 0, 0, 0, 0
+        nature NATURE_MODEST
+        shinylock 0
+        additionalflags 0 // no further entries data will be read, but needs to be here as the trainer data structure specifies additionalflags
         ballseal 0
     endparty
 

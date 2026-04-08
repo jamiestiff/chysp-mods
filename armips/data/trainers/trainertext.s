@@ -106,9 +106,9 @@ _0000: // Trainer 0
        // Trainer 709
        // Trainer 710
        // Trainer 711
-    trainertextentry 495, TEXT_LAST_MON_CRITICAL, "...Humph!\nYou’re doing OK for someone weak.\n"
-    trainertextentry 495, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nAre you happy you won?\n"
-    trainertextentry 495, TEXT_PLAYER_LOSES, "...Humph!\nThat was a waste of time.\n"
+    trainertextentry 1, TEXT_LAST_MON_CRITICAL, "...Oh! It seems Wooloo and I are\nin a tight spot here...\n"
+    trainertextentry 1, TEXT_DEFEATED_IN_BATTLE, "Great work!\nYou're a natural!\n"
+    trainertextentry 1, TEXT_PLAYER_LOSES, "...That was fun!\nYou did good for your first time!\n"
 
 _000C: // Trainer 496
     trainertextentry 496, TEXT_LAST_MON_CRITICAL, "...Humph!\nYou’re doing OK for someone weak.\n"
@@ -121,10 +121,10 @@ _0018: // Trainer 497
     trainertextentry 497, TEXT_PLAYER_LOSES, "...Humph!\nThat was a waste of time.\n"
 
 _0024: // Trainer 1
-    trainertextentry   1, TEXT_LAST_MON_SENT_OUT, "Say, you’ve got a lot of nerve,\ncoming here...\n"
-    trainertextentry   1, TEXT_LAST_MON_CRITICAL, "That’s ridiculous. There’s no way\nI could lose to a wimp like you!\n"
-    trainertextentry   1, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nUseless Pokémon!\rListen, you. You won only because my\nPokémon were weak.\n"
-    trainertextentry   1, TEXT_PLAYER_LOSES, "...Humph!\nI knew you were lying.\n"
+    trainertextentry   711, TEXT_LAST_MON_SENT_OUT, "Say, you’ve got a lot of nerve,\ncoming here...\n"
+    trainertextentry   711, TEXT_LAST_MON_CRITICAL, "That’s ridiculous. There’s no way\nI could lose to a wimp like you!\n"
+    trainertextentry   711, TEXT_DEFEATED_IN_BATTLE, "...Humph!\nUseless Pokémon!\rListen, you. You won only because my\nPokémon were weak.\n"
+    trainertextentry   711, TEXT_PLAYER_LOSES, "...Humph!\nI knew you were lying.\n"
 
 _0034: // Trainer 266
     trainertextentry 266, TEXT_LAST_MON_SENT_OUT, "Say, you’ve got a lot of nerve,\ncoming here...\n"
